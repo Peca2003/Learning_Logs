@@ -7,7 +7,7 @@
 
    Перейдите в папку, куда будет сохранен проект.
    
-   Клонируем репозиторий:   `git clone https://github.com/Peca2003/Blogs.git`
+   Клонируем репозиторий:   `git clone https://github.com/Peca2003/Learning_Logs.git`
 
 3. Создание виртуального окружения
 
